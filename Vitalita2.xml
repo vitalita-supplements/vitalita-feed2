@@ -7,11 +7,10 @@
 <currency id="UAH" rate="1"/>
 </currencies>
 <categories>
-<category id="103955">Амінокислоти</category>
-<category id="106314">Вітаміни та мінерали</category>
-<category id="103306">Харчові добавки</category>
-<category id="4653717">Риб'ячий жир та омега</category>
-<category id="106319">Стимулятори тестостерону</category>
+<category id="273295">Спортивне харчування / Амінокислоти</category>
+<category id="274789">Вітаміни та мінерали / Вітаміни та добавки</category>
+<category id="274390">Натуральні добавки і екстракти / Вітаміни та добавки</category>
+<category id="4653731">Стимулятори тестостерону / Спортивне харчування</category>
 </categories>
 <offers>
 <offer id="4820260990110" available="true">
