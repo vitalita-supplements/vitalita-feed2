@@ -54,7 +54,7 @@
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
 <offer id="4820260990127" available="true">
-<categoryId>106319</categoryId>
+<categoryId>4653731</categoryId>
 <stock_quantity>7</stock_quantity>
 <url/>
 <price>599</price>
@@ -91,7 +91,7 @@
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
 <offer id="4820260990028" available="true">
-<categoryId>103955</categoryId>
+<categoryId>273295</categoryId>
 <stock_quantity>111</stock_quantity>
 <url/>
 <price>649</price>
@@ -139,7 +139,7 @@
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
 <offer id="4820260990042" available="true">
-<categoryId>4653717</categoryId>
+<categoryId>274789</categoryId>
 <stock_quantity>15</stock_quantity>
 <url/>
 <price>630</price>
@@ -183,7 +183,7 @@
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
 <offer id="4820260990066" available="true">
-<categoryId>106314</categoryId>
+<categoryId>274789</categoryId>
 <stock_quantity>6</stock_quantity>
 <url/>
 <price>1099</price>
@@ -229,7 +229,7 @@
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
 <offer id="4820260990080" available="true">
-<categoryId>4653717</categoryId>
+<categoryId>274789</categoryId>
 <stock_quantity>69</stock_quantity>
 <url/>
 <price>1350</price>
@@ -275,7 +275,7 @@
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
 <offer id="4820260990103" available="true">
-<categoryId>103306</categoryId>
+<categoryId>274390</categoryId>
 <stock_quantity>19</stock_quantity>
 <url/>
 <price>599</price>
@@ -313,7 +313,7 @@
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
 <offer id="4820260990097" available="true">
-<categoryId>103306</categoryId>
+<categoryId>274390</categoryId>
 <stock_quantity>7</stock_quantity>
 <url/>
 <price>1299</price>
@@ -351,7 +351,7 @@
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
 <offer id="4820260990134" available="true">
-<categoryId>103955</categoryId>
+<categoryId>273295</categoryId>
 <stock_quantity>29</stock_quantity>
 <url/>
 <price>749</price>
@@ -398,7 +398,7 @@
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
 <offer id="4820260990073" available="true">
-<categoryId>103306</categoryId>
+<categoryId>274390</categoryId>
 <stock_quantity>27</stock_quantity>
 <url/>
 <price>599</price>
