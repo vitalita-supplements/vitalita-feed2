@@ -53,9 +53,9 @@
 <article>4820260990110</article>
 <param name="Доставка/Оплата">Доставка Новою Поштою: 1-2 дні.</param>
 </offer>
-<offer id="4820260990127" available="true">
+<offer id="4820260990127" available="false">
 <categoryId>4653731</categoryId>
-<stock_quantity>7</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <url/>
 <price>599</price>
 <price_old>655</price_old>
@@ -92,7 +92,7 @@
 </offer>
 <offer id="4820260990028" available="true">
 <categoryId>273295</categoryId>
-<stock_quantity>111</stock_quantity>
+<stock_quantity>95</stock_quantity>
 <url/>
 <price>649</price>
 <currencyId>UAH</currencyId>
@@ -230,7 +230,7 @@
 </offer>
 <offer id="4820260990080" available="true">
 <categoryId>274789</categoryId>
-<stock_quantity>69</stock_quantity>
+<stock_quantity>35</stock_quantity>
 <url/>
 <price>1350</price>
 <price_old>1550</price_old>
@@ -314,7 +314,7 @@
 </offer>
 <offer id="4820260990097" available="true">
 <categoryId>274390</categoryId>
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <url/>
 <price>1299</price>
 <currencyId>UAH</currencyId>
